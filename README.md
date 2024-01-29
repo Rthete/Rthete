@@ -1,4 +1,4 @@
-### Hi there 👋
+### 你好 👋
 
 <!--
 **Rthete/Rthete** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,4 +18,4 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on C++, Golang, Python ...
 - :heart: Musical, Anime ...
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Christmas&layout=compact)](https://github.com/Christmas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rthete&layout=compact)](https://github.com/Christmas/github-readme-stats)
